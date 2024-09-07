@@ -10,23 +10,23 @@
 # For example it would turn this list
 ---------------------------------------------------
 *.nflxvideo.net<br>
-*.prod.dradis.netflix.com
-beacon.netflix.com
-customerevents.netflix.com
-secure.netflix.com
-*.nflximg.net
-*.nflxso.net
-help.netflix.com
-ichnaea.netflix.com
-presentationtracking.netflix.com
+*.prod.dradis.netflix.com<br>
+beacon.netflix.com<br>
+customerevents.netflix.com<br>
+secure.netflix.com<br>
+*.nflximg.net<br>
+*.nflxso.net<br>
+help.netflix.com<br>
+ichnaea.netflix.com<br>
+presentationtracking.netflix.com<br>
 
 ---------------------------------------------------
 
 # Into to this list. Which could be useful for a variety of reasions.
 ---------------------------------------------------
-netflix.com
-nflximg.net
-nflxso.net
-nflxvideo.net
+netflix.com<br>
+nflximg.net<br>
+nflxso.net<br>
+nflxvideo.net<br>
 
 ---------------------------------------------------
