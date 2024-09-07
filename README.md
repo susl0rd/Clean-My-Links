@@ -1,15 +1,15 @@
 # Clean-My-Links
 
-# This script takes a list of domains (one per line), cleans them up to their core domains,
-# removes subdomains, removes duplicates, and filters out invalid entries, IP addresses, IP ranges,
-# and partial IP-like patterns
+### This script takes a list of domains (one per line), cleans them up to their core domains,
+### removes subdomains, removes duplicates, and filters out invalid entries, IP addresses, IP ranges,
+### and partial IP-like patterns
 
 # Usage:
 # ./CleanDomains.sh <input_file> [output_file]
 
 # For example it would turn this list
 ---------------------------------------------------
-*.nflxvideo.net
+*.nflxvideo.net<br>
 *.prod.dradis.netflix.com
 beacon.netflix.com
 customerevents.netflix.com
