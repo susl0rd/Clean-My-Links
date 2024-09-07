@@ -16,6 +16,7 @@ customerevents.netflix.com<br>
 secure.netflix.com<br>
 *.nflximg.net<br>
 *.nflxso.net<br>
+147.251.24.98
 help.netflix.com<br>
 ichnaea.netflix.com<br>
 presentationtracking.netflix.com<br>
